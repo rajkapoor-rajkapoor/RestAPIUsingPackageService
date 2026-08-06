@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<Values version="2.0">
+  <record name="record" javaclass="com.wm.util.Values">
+    <value name="node_type">record</value>
+    <value name="node_subtype">unknown</value>
+    <value name="node_nsName">original.new_rest_.docTypes:new_rest</value>
+    <value name="node_pkg">Testseconddhruv</value>
+    <record name="node_hints" javaclass="com.wm.util.Values">
+      <value name="createdBy">Administrator</value>
+      <value name="createdDate">2026-07-13T05:39:11.196131096Z</value>
+      <value name="modifiedBy">Administrator</value>
+      <value name="lastModifiedDate">2026-07-13T05:39:43.816392612Z</value>
+    </record>
+    <value name="is_public">false</value>
+    <value name="field_name">new_rest</value>
+    <value name="field_type">record</value>
+    <value name="field_dim">0</value>
+    <value name="nillable">true</value>
+    <value name="form_qualified">false</value>
+    <value name="is_global">false</value>
+    <array name="rec_fields" type="record" depth="1">
+    </array>
+    <value name="modifiable">false</value>
+    <value name="updateRSD">true</value>
+  </record>
+</Values>
