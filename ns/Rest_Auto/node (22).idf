@@ -3,13 +3,13 @@
 <Values version="2.0">
   <value name="node_type">interface</value>
   <value name="node_subtype">unknown</value>
-  <value name="node_nsName">original.new_rest_</value>
+  <value name="node_nsName">test.rad_petstore_.resources</value>
   <value name="node_pkg">Testseconddhruv</value>
   <record name="node_hints" javaclass="com.wm.util.Values">
     <value name="createdBy">Administrator</value>
-    <value name="createdDate">2026-07-13T05:39:11.187620096Z</value>
+    <value name="createdDate">2026-07-13T06:28:47.189866934Z</value>
     <value name="modifiedBy">Administrator</value>
-    <value name="lastModifiedDate">2026-07-13T05:39:11.187620096Z</value>
+    <value name="lastModifiedDate">2026-07-13T06:28:47.189866934Z</value>
   </record>
   <value name="is_public">false</value>
 </Values>
